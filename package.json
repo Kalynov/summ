@@ -1,0 +1,36 @@
+{
+  "name": "summ",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalynov/summ.git"
+  },
+  "author": "Kalynov Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalynov/summ/issues"
+  },
+  "homepage": "https://github.com/Kalynov/summ#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-json": "^0.1.4",
+    "gulp-json-format": "^2.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-watch": "^5.0.1",
+    "imagemin-pngquant": "^7.0.0"
+  }
+}
